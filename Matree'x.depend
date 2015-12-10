@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1335354532 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1334932568 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\main.h
+
+1335389510 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\matrice.h
+
+1335312174 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\fonctions.h
+
+1321095612 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\conio.h
+	<stdio.h>
+
+1335354982 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1335312272 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1335401784 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+	"puissanceN.h"
+
+1335470380 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\puissancen.h
+
+1335472428 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1335402256 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\matrice.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1321095596 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1335476644 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme\matree'x\puissancen.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1336331772 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336514506 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.h
+
+1336336544 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.h
+
+1337799704 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.h
+
+1321095612 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.h
+	<stdio.h>
+
+1337800758 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336564022 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1337799772 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+	"puissanceN.h"
+
+1336327156 h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.h
+
+1336336528 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1337826176 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1321095596 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1337798464 source:h:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1336331772 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336514506 e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.h
+
+1336336544 e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.h
+
+1336331966 e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.h
+
+1321095612 e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.h
+	<stdio.h>
+
+1337179684 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336564022 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1337181382 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+	"puissanceN.h"
+
+1336327156 e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.h
+
+1336336528 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1336337978 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1336333336 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1321095596 source:e:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1336331772 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336514506 k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.h
+
+1336336544 k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.h
+
+1337799704 k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.h
+
+1321095612 k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.h
+	<stdio.h>
+
+1337800758 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1336564022 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\degre4.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+
+1337799772 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\fonctions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"fonctions.h"
+	"conio.h"
+	"puissanceN.h"
+
+1336327156 k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.h
+
+1336336528 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1337826176 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\matrice.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1337798464 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\puissancen.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"matrice.h"
+	"puissanceN.h"
+	"fonctions.h"
+	"conio.h"
+
+1321095596 source:k:\efrei\l1\semestre_2\tai\algèbre linéaire\programme_matrices\matree'x\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+

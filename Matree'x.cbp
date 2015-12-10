@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Matree&apos;x" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Matree&apos;x" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DDEBUG = 1" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Matree&apos;x" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="conio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="conio.h" />
+		<Unit filename="degre2.cpp" />
+		<Unit filename="degre3.cpp" />
+		<Unit filename="degre4.cpp" />
+		<Unit filename="fonctions.cpp" />
+		<Unit filename="fonctions.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="matrice.cpp" />
+		<Unit filename="matrice.h" />
+		<Unit filename="puissanceN.cpp" />
+		<Unit filename="puissanceN.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

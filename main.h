@@ -1,0 +1,1 @@
+void menuMatrice (int tailleMatrice);
